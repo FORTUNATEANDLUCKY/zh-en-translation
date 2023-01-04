@@ -1,2 +1,10 @@
 # zh-en-translation
-This is a crawler based GUI graphical interface.  It can automatically detect the input language and target language without manual setting.
+
+
+1. 这是一个基于爬虫的GUI图形化界面应用程序。
+
+2. 它可以自动检测输入语言和目标语言，无需手动设置。
+
+3. 它可以自动识别输入内容，具有相对完善的异常处理机制。
+
+4. 为了提高实用性，我把所有代码都存于一个文件中，即使这会降低代码可读性。 
