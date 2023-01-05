@@ -14,8 +14,8 @@ lang_to = ''
 
 def language():  # 判断输入值的语言
     global lang_from, lang_to
-    for litter in sentence:
-        if ord('A') <= ord(litter) <= ord('z'):
+    for letter in sentence:
+        if ord('A') <= ord(letter) <= ord('z'):
             lang_from = 'en'
             lang_to = 'zh'
             break
